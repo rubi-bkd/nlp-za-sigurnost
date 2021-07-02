@@ -1,4 +1,4 @@
 # nlp-za-sigurnost
-klasificiranje urlova,
+klasificiranje i prepoznavanje prevarantskih url,
 prepoznavanje spam e-mail poruka,
 prepoznavanje malicioznih xss kodova
